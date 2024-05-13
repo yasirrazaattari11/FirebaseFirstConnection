@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915086245365",
+    "project_id": "pftpfirebase",
+    "storage_bucket": "pftpfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915086245365:android:645d1a6e58fc6c5ce5f4bc",
+        "android_client_info": {
+          "package_name": "com.example.firebasepftp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF_rYTIYFljEwGusDgVdGbET1EpoiU73Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
